@@ -1,0 +1,15 @@
+2025-05-07 11:25 am - Added Route: Delhi -> Mumbai | Fare: 800 | Time: 1400
+2025-05-07 11:25 am - Added Route: Delhi -> Jaipur | Fare: 300 | Time: 280
+2025-05-07 11:25 am - Added Route: Jaipur -> Mumbai | Fare: 500 | Time: 1120
+2025-05-07 11:25 am - Added Route: Mumbai -> Pune | Fare: 200 | Time: 150
+2025-05-07 11:25 am - Added Route: Pune -> Goa | Fare: 700 | Time: 600
+2025-05-07 11:25 am - Added Route: Jaipur -> Goa | Fare: 1000 | Time: 1300
+2025-05-07 11:25 am - Found Path: Path: Delhi -> Jaipur -> Mumbai -> Pune -> Goa, Hops: 2, Total cost: 1580
+2025-05-07 11:26 am - Found Path: Path: Delhi -> Jaipur -> Mumbai -> Pune -> Goa, Hops: 2, Total cost: 1580
+2025-05-07 11:27 am - Added Route: Delhi -> Mumbai | Fare: 800 | Time: 1400
+2025-05-07 11:27 am - Added Route: Delhi -> Jaipur | Fare: 300 | Time: 280
+2025-05-07 11:27 am - Added Route: Jaipur -> Mumbai | Fare: 500 | Time: 1120
+2025-05-07 11:27 am - Added Route: Mumbai -> Pune | Fare: 200 | Time: 150
+2025-05-07 11:27 am - Added Route: Pune -> Goa | Fare: 700 | Time: 600
+2025-05-07 11:27 am - Added Route: Jaipur -> Goa | Fare: 1000 | Time: 1300
+2025-05-07 11:27 am - Found Path: Path: Delhi -> Jaipur -> Mumbai -> Pune -> Goa, Hops: 2, Total cost: 1580
